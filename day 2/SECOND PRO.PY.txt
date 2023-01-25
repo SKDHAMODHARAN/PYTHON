@@ -1,0 +1,14 @@
+list=[]
+list1=[]
+prod=1
+n=int(input("Enter a Number:"))
+for i in range(n):
+    x=int(input())
+    list.append(x)
+print(list)
+for i in list:
+    prod=prod*i
+
+for i in range(len(list)):
+    list1.append(prod//list[i])
+print(list1)
