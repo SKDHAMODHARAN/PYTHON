@@ -1,3 +1,5 @@
+#PYTHON PROGRAM TWO SUMS...
+
 list = [5,10,15,20]
 k = 30
 for i in range(len(list)):
