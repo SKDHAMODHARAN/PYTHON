@@ -6,6 +6,8 @@
  "11111" -8
  as for this
  here : x = count of  given string'''
+
+
 string = input()
 x1 =1
 x2 =2
