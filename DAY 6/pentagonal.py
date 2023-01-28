@@ -4,7 +4,7 @@ def pentagonal(num):
     angle =5 # pentagon so angle =5
     for i in range(num):
         dots=dots+angle*i
-    print(dots)
+    print("dots is",dots )
     return num
 pentagonal(num)
 
